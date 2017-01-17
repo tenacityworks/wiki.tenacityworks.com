@@ -10,11 +10,19 @@ A very cool and awesome introduction here...
 * [Development Tools](https://github.com/tenacityworks/wiki.tenacityworks.com/blob/master/pages/development.md)
 * [Project Management Tools](https://github.com/tenacityworks/wiki.tenacityworks.com/blob/master/pages/project-management.md)
 
+#### FrameWorks / CMS'es
+* [WordPress](https://wordpress.org/download)
+* [Yii](http://www.yiiframework.com/)
+
 #### WordPress Plugins 
 * [Varnish HTTP Purge](https://wordpress.org/plugins/varnish-http-purge/)
 * [Advanced Custom Fields](https://wordpress.org/plugins/advanced-custom-fields/)
 * [Pods - Custom Content Types and Fields](https://wordpress.org/plugins/pods/)
 * [Contact Form 7](https://wordpress.org/plugins/contact-form-7/)
+
+#### Version Control / Source Management
+* [GitHub](https://github.com/)
+* [BitBucket](https://bitbucket.org)
 
 #### JavaScript / jQuery Libraries
 * [jQuery](http://jquery.com/download/)
