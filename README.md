@@ -7,8 +7,8 @@ A very cool and awesome introduction here...
 
 ### Table of Contents
 #### Frameworks / CMS 
-* [WordPress](https://wordpress.org/download)
-* [Yii](http://www.yiiframework.com/) 
+* [Development Tools]()
+* [Project Management Tools]()
 
 #### WordPress Plugins 
 * [Varnish HTTP Purge](https://wordpress.org/plugins/varnish-http-purge/)
