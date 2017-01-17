@@ -12,23 +12,22 @@ A very cool and awesome introduction here...
 
 #### FrameWorks / CMS'es
 * [WordPress](https://wordpress.org/download)
-* [Yii](http://www.yiiframework.com/)
+* [Yii Framework](http://www.yiiframework.com/)
 
 #### WordPress Plugins 
-* [Varnish HTTP Purge](https://wordpress.org/plugins/varnish-http-purge/)
-* [Advanced Custom Fields](https://wordpress.org/plugins/advanced-custom-fields/)
-* [Pods - Custom Content Types and Fields](https://wordpress.org/plugins/pods/)
-* [Contact Form 7](https://wordpress.org/plugins/contact-form-7/)
+* [WordPress Plugins Free](https://github.com/tenacityworks/wiki.tenacityworks.com/blob/master/pages/wordpress-plugins-free.md)
+* [Advanced Custom Fields](https://github.com/tenacityworks/wiki.tenacityworks.com/blob/master/pages/wordpress-plugins-premium.md)
 
 #### Version Control / Source Management
 * [GitHub](https://github.com/)
 * [BitBucket](https://bitbucket.org)
 
-#### JavaScript / jQuery Libraries
-* [jQuery](http://jquery.com/download/)
-* [jQuery UI Library](http://jqueryui.com/download/)
+#### Extension Libraries
+* [jQuery/Javascript]()
+* [CSS]()
 
 #### WebFonts 
+* [Typography.com](https://typography.com)
 * [TypeKit](https://typekit.com/)
 * [Google Fonts](https://fonts.google.com/) 
 
