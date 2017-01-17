@@ -6,9 +6,9 @@ A very cool and awesome introduction here...
 
 
 ### Table of Contents
-#### Frameworks / CMS 
-* [Development Tools]()
-* [Project Management Tools]()
+#### Productivity Tools
+* [Development Tools](https://github.com/tenacityworks/wiki.tenacityworks.com/blob/master/pages/development.md)
+* [Project Management Tools](https://github.com/tenacityworks/wiki.tenacityworks.com/blob/master/pages/project-management.md)
 
 #### WordPress Plugins 
 * [Varnish HTTP Purge](https://wordpress.org/plugins/varnish-http-purge/)
